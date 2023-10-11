@@ -1,12 +1,5 @@
 🔥 **Armel Tandeau de Marsac** 🔥
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GitHub followers](https://img.shields.io/github/followers/armeldemarsac92?label=Follow&style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=armeldemarsac92.armeldemarsac92)
 
 De la comptabilité à la création de médias digitaux, mon parcours est tout sauf linéaire. Passionné par la fusion de la tech et de l'éthique, je suis le gars qui a automatisé la curation de mode écoresponsable avec Python. 🐍
 
@@ -20,4 +13,9 @@ De la comptabilité à la création de médias digitaux, mon parcours est tout s
 
 🔗 Connectons-nous, collaborons, ou challengez-moi avec un nouveau projet. Si vous cherchez quelqu'un qui repousse constamment ses limites, vous êtes au bon endroit. 🤘
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)](https://www.linkedin.com/in/armel-tandeau-de-marsac/)
