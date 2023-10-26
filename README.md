@@ -1,6 +1,3 @@
-🔥 **Armel Tandeau de Marsac** 🔥
-
-
 De la comptabilité à la création de médias digitaux, mon parcours est tout sauf linéaire. Passionné par la fusion de la tech et de l'éthique, je suis le gars qui a automatisé la curation de mode écoresponsable avec Python. 🐍
 
 🚀 Actuellement en immersion à Epitech, je plonge dans les abysses du génie logiciel, avec un penchant pour le DevOps. Pour moi, coder n'est pas juste écrire des lignes : c'est sculpter des solutions, c'est l'art de transformer le café en systèmes logiques et cohérents.
