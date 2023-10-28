@@ -1,8 +1,8 @@
 De la comptabilité à la création de médias digitaux, mon parcours est tout sauf linéaire. Passionné par la fusion de la tech et de l'éthique, je suis le gars qui a automatisé la curation de mode écoresponsable avec Python. 🐍
 
-🚀 Actuellement en immersion à Epitech, je plonge dans les abysses du génie logiciel, avec un penchant pour le DevOps. Pour moi, coder n'est pas juste écrire des lignes : c'est sculpter des solutions, c'est l'art de transformer le café en systèmes logiques et cohérents.
+🚀 Actuellement en immersion à Epitech, je plonge dans les abysses du génie logiciel, avec un penchant pour le DevOps. Pour moi, coder n'est pas juste écrire des lignes : c'est sculpter des solutions, c'est l'art de transformer le café en systèmes logiques et cohérents. 
 
-🌐 **Développement, déploiement cloud, cybersécurité** : les trois piliers de la création d'une application. Chaque projet est une nouvelle aventure. J'apprends actuellement à conteneuriser une application en plusieurs microservices connectés via http ou un système de BUS avec RabbitMQ. C'est passionnant! 
+🌐 **Développement, déploiement cloud, cybersécurité** : les trois piliers de la création d'une application. Chaque projet est une nouvelle aventure. J'apprends actuellement à conteneuriser une application en plusieurs microservices connectés via http ou un système de BUS avec RabbitMQ. C'est passionnant!
 
 🔒 Passionné par le pentesting et la serrurerie, je suis toujours à la recherche de la prochaine énigme à résoudre, du prochain système à sécuriser. Je passe beaucoup de temps sur Google Patents. C'est l'équivalent de Github pour le monde de l'industrie, on y trouve plein d'infos sur des brevets de serrure et systèmes de sécurité.
 
