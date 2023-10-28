@@ -2,7 +2,7 @@ De la comptabilité à la création de médias digitaux, mon parcours est tout s
 
 🚀 Actuellement en immersion à Epitech, je plonge dans les abysses du génie logiciel, avec un penchant pour le DevOps. Pour moi, coder n'est pas juste écrire des lignes : c'est sculpter des solutions, c'est l'art de transformer le café en systèmes logiques et cohérents.
 
-🌐 **Développement, déploiement cloud, cybersécurité** : les trois piliers de la création d'une application. Chaque projet est une nouvelle aventure, chaque ligne de code, une rébellion contre le statu quo.
+🌐 **Développement, déploiement cloud, cybersécurité** : les trois piliers de la création d'une application. Chaque projet est une nouvelle aventure.
 
 🔒 Passionné par le pentesting et la serrurerie, je suis toujours à la recherche de la prochaine énigme à résoudre, du prochain système à sécuriser.
 
