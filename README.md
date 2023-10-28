@@ -4,7 +4,7 @@ De la comptabilité à la création de médias digitaux, mon parcours est tout s
 
 🌐 **Développement, déploiement cloud, cybersécurité** : les trois piliers de la création d'une application. Chaque projet est une nouvelle aventure. J'apprends actuellement à conteneuriser une application en plusieurs microservices connectés via http ou un système de BUS avec RabbitMQ. C'est passionnant! 
 
-🔒 Passionné par le pentesting et la serrurerie, je suis toujours à la recherche de la prochaine énigme à résoudre, du prochain système à sécuriser.
+🔒 Passionné par le pentesting et la serrurerie, je suis toujours à la recherche de la prochaine énigme à résoudre, du prochain système à sécuriser. Je passe beaucoup de temps sur Google Patents. C'est l'équivalent de Github pour le monde de l'industrie, on y trouve plein d'infos sur des brevets de serrure et systèmes de sécurité.
 
 🌍 Lorsque je ne suis pas devant un écran, vous me trouverez peut-être en pleine nature, explorant des grottes ou capturant des moments avec mon appareil photo.
 
