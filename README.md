@@ -1,6 +1,6 @@
 De la comptabilité à la création de médias digitaux, mon parcours est tout sauf linéaire. Passionné par la fusion de la tech et de l'éthique, je suis le gars qui a automatisé la curation de mode écoresponsable avec Python. 🐍
 
-🚀 Actuellement en immersion à Epitech, je plonge dans les abysses du génie logiciel, avec un penchant pour le backend et la création d'architectures. Pour moi, coder n'est pas juste écrire des lignes : c'est sculpter des solutions, c'est l'art de transformer le café en systèmes logiques et cohérents, notamment avec Docker, K8S et RabbitMQ. 
+🚀 Actuellement en immersion à Epitech, je plonge dans les abysses du génie logiciel, avec un penchant pour le backend, la création d'architectures et leur déploiement. Pour moi, coder n'est pas juste écrire des lignes : c'est sculpter des solutions, c'est l'art de transformer le café en systèmes logiques et cohérents, notamment avec Docker, K8S et RabbitMQ. 
 
 🌐 **Développement, déploiement cloud, cybersécurité** : les trois piliers de la création d'une application. Chaque projet est une nouvelle aventure. J'apprends actuellement à conteneuriser une application en plusieurs microservices connectés via http ou un système de BUS avec RabbitMQ. C'est passionnant!
 
@@ -18,4 +18,4 @@ De la comptabilité à la création de médias digitaux, mon parcours est tout s
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)](https://www.linkedin.com/in/armel-tandeau-de-marsac/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/armel-tandeau-de-marsac/)]
