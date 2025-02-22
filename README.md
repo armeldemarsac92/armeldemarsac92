@@ -44,6 +44,4 @@ I'm always interested in collaborating on innovative projects or discussing clou
 - 🔧 [GitHub](https://github.com/armeldemarsac92)
 - 📧 armeldemarsac@gmail.com
 
-Currently seeking a work-study position (2 days school/3 days work) until September 2026 in a cloud-focused company.
-
 ---
