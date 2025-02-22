@@ -1,19 +1,49 @@
-🚀 Actuellement en immersion à Epitech, je plonge dans les abysses du génie logiciel, avec un penchant pour le backend, la création d'architectures et leur déploiement. Pour moi, coder n'est pas juste écrire des lignes : c'est sculpter des solutions, c'est l'art de transformer le café en systèmes logiques et cohérents, notamment avec Docker, K8S et RabbitMQ. 
+# Armel de Marsac
 
-🌐 **Développement, déploiement cloud, cybersécurité** : les trois piliers de la création d'une application. Chaque projet est une nouvelle aventure. J'apprends actuellement à conteneuriser une application en plusieurs microservices connectés via http ou un système de BUS avec RabbitMQ. C'est passionnant!
+## Cloud-Native Developer & Infrastructure Enthusiast
 
-🔒 Passionné par le pentesting et la serrurerie, je suis toujours à la recherche de la prochaine énigme à résoudre, du prochain système à sécuriser. Je passe beaucoup de temps sur Google Patents. C'est l'équivalent de Github pour le monde de l'industrie, on y trouve plein d'infos sur des brevets de serrure et systèmes de sécurité.
+I'm a junior developer with a strong focus on cloud infrastructure and enterprise application development. Currently pursuing software engineering studies at Epitech while working as a .NET Developer at Planon France, I'm passionate about creating robust, scalable cloud solutions.
 
-🌍 Lorsque je ne suis pas devant un écran, vous me trouverez peut-être en pleine nature, explorant des grottes ou capturant des moments avec mon appareil photo.
+### 🚀 What I'm Currently Working On
 
-🔗 Connectons-nous, collaborons, ou challengez-moi avec un nouveau projet. Si vous cherchez quelqu'un qui repousse constamment ses limites, vous êtes au bon endroit. 🤘
+- Developing enterprise-grade integration connectors at Planon France, implementing OAuth 2.0 authentication systems for major clients
+- Building a cloud-native fashion product sharing platform using AWS and microservices architecture
+- Researching containerization strategies and implementing OpenTelemetry for enhanced observability
+- Creating a multi-cloud deployment platform as part of my Epitech final project, including a custom Terraform provider
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/armel-tandeau-de-marsac/)
+### 💻 Technical Expertise
+
+- **Backend Development**: Proficient in C# and .NET ecosystem, with experience in building scalable REST APIs and microservices
+- **Cloud & Infrastructure**: AWS services (ECS, Lambda, SQS, CloudWatch), Infrastructure as Code with Terraform
+- **Authentication & Security**: Implementation of OAuth 2.0/OpenID Connect protocols with advanced security features (PKCE, state, nonce)
+- **DevOps & Monitoring**: Experience with containerization, logging systems, and OpenTelemetry for observability
+- **Architecture Patterns**: Microservices, Event-driven architecture, SOLID principles, and layered architecture
+
+### 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🌱 Current Learning Focus
+
+- Advanced cloud-native application architectures
+- Containerization and orchestration technologies
+- Infrastructure automation and IaC best practices
+- AI integration in cloud applications (OpenAI)
+
+### 📫 Let's Connect
+
+I'm always interested in collaborating on innovative projects or discussing cloud architecture and infrastructure. You can reach me through:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/armel-tandeau-de-marsac/)
+- 🔧 [GitHub](https://github.com/armeldemarsac92)
+- 📧 armeldemarsac@gmail.com
+
+Currently seeking a work-study position (2 days school/3 days work) until September 2026 in a cloud-focused company.
+
+---
