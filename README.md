@@ -11,7 +11,7 @@ I'm a junior developer with a strong focus on cloud infrastructure and enterpris
 - Researching containerization strategies and implementing OpenTelemetry for enhanced observability
 - Creating a multi-cloud deployment platform as part of my Epitech final project, including a custom Terraform provider
 
-### 💻 Technical Expertise
+### 💻 Technical Knowledge
 
 - **Backend Development**: Proficient in C# and .NET ecosystem, with experience in building scalable REST APIs and microservices
 - **Cloud & Infrastructure**: AWS services (ECS, Lambda, SQS, CloudWatch), Infrastructure as Code with Terraform
