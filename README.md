@@ -1,47 +1,94 @@
-# Armel de Marsac
 
-## Cloud-Native Developer & Infrastructure Enthusiast
+# 👋 Salut,
 
-I'm a junior developer with a strong focus on cloud infrastructure and enterprise application development. Currently pursuing software engineering studies at Epitech while working as a .NET Developer at Planon France, I'm passionate about creating robust, scalable cloud solutions.
+## 🚀 Développeur Backend C# / .NET
 
-### 🚀 What I'm Currently Working On
+Développeur junior passionné par le backend, spécialisé en **C#** et **.NET 8**. J'aime créer des solutions robustes et scalables qui résolvent de vrais problèmes business.
 
-- Developing enterprise-grade integration connectors at Planon France, implementing OAuth 2.0 authentication systems for major clients
-- Building a cloud-native fashion product sharing platform using AWS and microservices architecture
-- Researching containerization strategies and implementing OpenTelemetry for enhanced observability
-- Creating a multi-cloud deployment platform as part of my Epitech final project, including a custom Terraform provider
+----------
 
-### 💻 Technical Knowledge
+## 💼 Expérience professionnelle
 
-- **Backend Development**: Proficient in C# and .NET ecosystem, with experience in building scalable REST APIs and microservices
-- **Cloud & Infrastructure**: AWS services (ECS, Lambda, SQS, CloudWatch), Infrastructure as Code with Terraform
-- **Authentication & Security**: Implementation of OAuth 2.0/OpenID Connect protocols with advanced security features (PKCE, state, nonce)
-- **DevOps & Monitoring**: Experience with containerization, logging systems, and OpenTelemetry for observability
-- **Architecture Patterns**: Microservices, Event-driven architecture, SOLID principles, and layered architecture
+Au cours de ma dernière expérience, j'ai développé une **trentaine de logiciels** pour des clients comme **Air France**, **Chanel**, **BPCE**, et **DGSI**.
 
-### 🛠️ Tech Stack
+**Mission principale** : Synchroniser les référentiels de données clients (APIs, serveurs FTP, etc.) avec notre solution métier.
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**Stack technique** : C#, .NET 8, Entity Framework, Blazor Server & WebAssembly, APIs REST, Architecture microservices.
 
-### 🌱 Current Learning Focus
+### 🏆 Réalisation marquante
 
-- Advanced cloud-native application architectures
-- Containerization and orchestration technologies
-- Infrastructure automation and IaC best practices
-- AI integration in cloud applications (OpenAI)
+**Connecteur générique OAuth/OpenID Connect** - Permet aux clients de connecter leur broker d'identité à nos solutions. Expertise approfondie en authentification/autorisation, OAuth 2.0 et OpenID Connect.
 
-### 📫 Let's Connect
+----------
 
-I'm always interested in collaborating on innovative projects or discussing cloud architecture and infrastructure. You can reach me through:
+## 🛠️ Projets personnels
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/armel-tandeau-de-marsac/)
-- 🔧 [GitHub](https://github.com/armeldemarsac92)
-- 📧 armeldemarsac@gmail.com
+### 🛍️ Seeqr - Marketplace Fashion avec IA _(En cours)_
 
----
+**Plateforme SaaS complète** qui révolutionne l'expérience shopping mode en créant un pont entre curateurs fashion et acheteurs :
+
+**🎯 Business Model**
+
+-   **Créateurs/Curateurs** : Sélectionnent et valorisent des articles Vinted pour leurs abonnés
+-   **Abonnés** : Accèdent à des collections personnalisées via abonnements payants (Stripe)
+-   **Système de requêtes automatisé** : Les créateurs demandent des articles spécifiques, l'app récupère automatiquement sur Vinted
+
+**🔧 Reverse Engineering & Infrastructure**
+
+-   **API Vinted reverse-engineered** : Intégration complète sans API officielle
+-   **Proxy rotatif** : Gestion intelligente des rate limits et détection anti-bot
+-   **Scraping robuste** : Systèmes de retry, circuit breakers, monitoring
+
+**🤖 Pipeline IA Sophistiqué**
+
+-   **Enhancement automatique** : Titres et descriptions améliorés par OpenAI
+-   **Extraction de mesures** : Standardisation des tailles (chest, waist, etc.)
+-   **Vector embeddings** : Recherche par similarité et matching intelligent
+-   **Personnalisation** : Recommandations basées sur les préférences utilisateur
+
+**⚡ Architecture Technique**
+
+-   **Microservices .NET Core** avec message queuing (AWS SQS)
+-   **Workers spécialisés** : ItemFetcher, AiFetcher, RequestProcessor
+-   **Event-driven** : Architecture asynchrone pour la scalabilité
+-   **Stack** : PostgreSQL, AWS Lambda/CloudWatch, Stripe, Vector DB
+
+### 🏗️ Mini-Rack 10" Custom _(Hardware)_
+
+Cluster Kubernetes sur-mesure avec refroidissement watercooling intégré :
+
+-   **Cluster** : 3 nœuds Ryzen 9 + 128Go RAM chacun
+-   **Storage** : Baie NAS avec SSD en XFS
+-   **Réseau** : NICs Intel 10Gb SFP+ + Switch géré QNAP 10Gb
+-   **Refroidissement** : Watercooling avec quick-connect, pompe EK, waterblocks sur-mesure usinés en Allemagne
+-   **Fabrication** : Plaques arrière imprimées en 3D (OnShape), intégration PSU et prises 220V
+-   **Administration** : Orchestration complète via Kubernetes
+
+----------
+
+## 🎮 Philosophie : Du gaming au dev
+
+Ancien passionné de jeux de gestion (**Age of Empires**, **Total War**, **Factorio**, **Hearts of Iron**), j'ai découvert que le développement partage les mêmes fondamentaux : vision macro, optimisation des ressources, création de systèmes complexes.
+
+Cette passion m'a naturellement orienté vers l'**architecture logicielle** et l'**infrastructure** :
+
+-   Design patterns et architecture propre
+-   Orchestration Kubernetes et microservices
+-   Message queuing & event-driven architecture
+-   Vision end-to-end du software au hardware
+
+----------
+
+## 🛠️ Tech Stack
+
+**Backend & Core**  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+
+**Hardware & Fabrication**  
+![OnShape](https://img.shields.io/badge/-OnShape-1E90FF?style=flat-square&logo=onshape&logoColor=white) ![3D Printing](https://img.shields.io/badge/-3D%20Printing-FF6B35?style=flat-square&logo=3d-printing&logoColor=white)
