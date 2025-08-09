@@ -41,6 +41,7 @@ I'm a developer passionate about everything from cloud infrastructure to the har
 
 **🔒 Security**
 <p>
+    <img src="https://img.shields.io/badge/hashicorp%20vault-%2362f4f1.svg?style=for-the-badge&logo=hashicorpvault&logoColor=black" alt="HashiCorp Vault"/>
     <img src="https://img.shields.io/badge/keycloak-%232A2A2A?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
     <img src="https://img.shields.io/badge/oauth2-%232A2A2A?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth 2.0"/>
 </p>
