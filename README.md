@@ -1,4 +1,4 @@
-I'm a developer passionate about everything from cloud infrastructure to the hardware it runs on. My main side project, Seeqr, is a clothing curation app built with C# and RabbitMQ. When I'm not coding, I'm contributing to open-source projects like the Kong OIDC plugin, building custom water-cooled servers, or 3D printing. I'm always eager to learn how things work and solve real-world problems. You can reach me at armeldemarsac@gmail.com.
+I'm a backend developer passionate about everything from cloud infrastructure to the hardware it runs on. My main side project, Seeqr, is a clothing curation app built with C#, React and RabbitMQ. When I'm not coding, I'm contributing to open-source projects like the Kong OIDC plugin, building custom water-cooled servers, or 3D printing. I'm always eager to learn how things work and solve real-world problems. You can reach me at armeldemarsac@gmail.com.
 
 ### 💻 Core Technologies & Tools
 
