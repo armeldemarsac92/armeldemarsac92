@@ -1,1 +1,1 @@
-Free your internal otter
+Free your inner otter
